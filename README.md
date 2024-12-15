@@ -38,3 +38,5 @@ Welcome to my GitHub! I'm Arthur, a passionate fullstack developer from France w
 ---
 
 ✨ **"Keep learning, keep building!"** ✨
+
+<img src="https://raw.githubusercontent.com/LovisCoding/LovisCoding/output/snake.svg">
