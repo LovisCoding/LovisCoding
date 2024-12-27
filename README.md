@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Arthur Lecomte
+# Hi there! 👋 I'm Arthur
 
 ### 🚀 Fullstack Developer | 💻 Code Enthusiast | 🇫🇷 From France
 
