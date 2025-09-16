@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm Arthur, a passionate fullstack developer from France w
 
 
 ### 🌱 Currently Learning
-- Mastering **fullstack application development** with real-world projects at Exel Connect.
+- Mastering **fullstack application development** with real-world projects.
 - Exploring **best practices** for managing and deploying REST APIs.
 
 ### 📫 Connect With Me
